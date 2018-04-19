@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Visual test</string>
+    <string name="textview">Result</string>
+    <string name="button">Sum</string>
+</resources>
